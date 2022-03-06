@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Wrapped Ether",
+    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x52773ce0b2F4a47F61e3dAe427e347687B92F106",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Maker",
+    "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
+    "symbol": "MKR",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+  },
+  {
+    "name": "Uniswap",
+    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "symbol": "UNI",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "SushiSwap",
+    "address": "0x5457Cc9B34eA486eB8d3286329F3536f71fa8A8B",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  },
+  {
+    "name": "FantasticSwap",
+    "address": "0xB7814C8012EC31c10A59FF07fCf852328D2C72de",
+    "symbol": "FANTA",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "ipfs://QmW3Aqk4S5FbE6fNuwrBbej1F5v3jRKiU1veA5jg44avc1"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "name": "@fantasticswap/default-token-list",
+  "version": "0.1.0",
+  "description": "◦ The FantasticSwap default token list",
+  "main": "build/fantasticswap-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/fantasticswap-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/fantasticswap-default.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasticswap/default-token-list.git"
+  },
+  "keywords": [
+    "fantasticswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Fantasticist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fantasticswap/default-token-list/issues"
+  },
+  "homepage": "https://github.com/fantasticswap/default-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
