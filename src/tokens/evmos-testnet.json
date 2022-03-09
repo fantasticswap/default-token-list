@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Wrapped Evmos",
+    "address": "0x7F865d113DA1cD186271Fa0E5170753733Cf4ED9",
+    "symbol": "WEVMOS",
+    "decimals": 18,
+    "chainId": 9000
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x412576738928c7a3dDA5c8AdF211C5C56054781b",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 9000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "FantasticSwap",
+    "address": "0x65efe10B1E14C3411cd1646F3D7bEdfbB8D660cA",
+    "symbol": "FANTA",
+    "decimals": 18,
+    "chainId": 9000,
+    "logoURI": "ipfs://QmW3Aqk4S5FbE6fNuwrBbej1F5v3jRKiU1veA5jg44avc1"
+  }
+]
