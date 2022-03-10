@@ -15,6 +15,39 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
+    "name": "Cosmos",
+    "address": "0x01e4e22885E937e9Facdc5cE8f78A89a0F7eF91E",
+    "symbol": "ATOM",
+    "decimals": 6,
+    "chainId": 9000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/cosmos/info/logo.png"
+  },
+  {
+    "name": "Osmosis",
+    "address": "0x50857A57E8f478A8899699bC1Df668dD24DB5654",
+    "symbol": "OSMO",
+    "decimals": 6,
+    "chainId": 9000,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/osmosis/info/logo.png"
+  },
+  {
+    "name": "Luna",
+    "address": "0x1362E2320961E922840e173Fa39967749DE6c3fb",
+    "symbol": "LUNA",
+    "decimals": 6,
+    "chainId": 9000,
+    "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/luna.png"
+  },
+  {
+    "name": "TerraUSD",
+    "address": "0x5C7dD9202F9CA2bF57A02b651BB7b0a39abE3A32",
+    "symbol": "UST",
+    "decimals": 6,
+    "chainId": 9000,
+    "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/ust.png"
+  },
+
+  {
     "name": "FantasticSwap",
     "address": "0x65efe10B1E14C3411cd1646F3D7bEdfbB8D660cA",
     "symbol": "FANTA",
