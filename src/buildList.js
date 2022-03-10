@@ -6,6 +6,7 @@ const goerli = require("./tokens/goerli.json");
 const kovan = require("./tokens/kovan.json");
 const polygon = require("./tokens/polygon.json");
 const mumbai = require("./tokens/mumbai.json");
+const evmosTestnet = require("./tokens/evmos-testnet.json")
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -20,7 +21,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmW3Aqk4S5FbE6fNuwrBbej1F5v3jRKiU1veA5jg44avc1",
     keywords: ["fantasticswap", "default"],
-    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...polygon, ...mumbai]
+    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...polygon, ...mumbai, ...evmosTestnet]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
