@@ -1,6 +1,6 @@
 {
   "name": "@fantasticswap/default-token-list",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "◦ The FantasticSwap default token list",
   "main": "build/fantasticswap-default.tokenlist.json",
   "scripts": {
